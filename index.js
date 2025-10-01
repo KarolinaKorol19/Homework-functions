@@ -119,3 +119,4 @@ console.log(addLogin(logins, 'Kiwi'));   // Логін успішно додан
 console.log(addLogin(logins, 'Poly'));   // Такий логін уже використовується!
 console.log(addLogin(logins, 'Al'));     // Помилка! Логін повинен бути від 4 до 16 символів
 
+// тестуемо терминал
